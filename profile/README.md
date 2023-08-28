@@ -1,0 +1,1 @@
+We're a group of people who get together online, on the weekends, to do projects together. Our projects are majorly focused on Cloud Native technologies and we do both development and operations related projects.
